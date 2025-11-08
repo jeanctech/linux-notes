@@ -4,7 +4,7 @@
 <template>
   <header>
     <code>By_JCT_@2025.bin</code>
-    <h1>GNU-LINUX-JCT.sh</h1>
+    <h1>LINUX-NOTES.sh</h1>
   </header>
   <br>
   <nav>
